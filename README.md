@@ -1,0 +1,2 @@
+# Flutter_InheritedNotifier_And_ChangeNotifier_flutter_state_management
+Flutter InheritedNotifier and ChangeNotifier - Flutter State Management
